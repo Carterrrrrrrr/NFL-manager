@@ -12,7 +12,7 @@ Teams store a roster (of NFL players) that can be manipulated to add or remove c
 Teams store fundamental information about themselves such as their city, stadium, head coach, and an image/logo.
 Teams store a schedule that game objects can be added to in a queue-like fashion; a list of played games is stored in a stack-like fashion.
 
-###Games
+### Games
 
 Games store fundamental information about themselves: both teams' scores.
 Games can be associated with 2 teams (home and away). 
